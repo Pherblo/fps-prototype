@@ -215,7 +215,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f21fd56075b25f24d938c73d07f9ba47, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gun: {fileID: 1746173457}
+  gun: {fileID: 3469287836924440684}
   sights: {fileID: 1268139369}
   origin: {fileID: 4135013737110787513}
   cam: {fileID: 1535107979}
